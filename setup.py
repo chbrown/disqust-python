@@ -5,7 +5,7 @@ setup(
     version='0.1.0',
     description='Disqus API client',
     long_description=open('README.rst').read(),
-    url='http://github.com/chbrown/disqust-python',
+    url='https://github.com/chbrown/disqust-python',
     author='Christopher Brown',
     author_email='io@henrian.com',
     license='MIT',
